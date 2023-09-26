@@ -1,0 +1,2 @@
+[workspace]
+members = ["hotkey-rs", "listen-act"]

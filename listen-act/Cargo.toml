@@ -1,0 +1,11 @@
+[package]
+name = "listen-act"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+arboard = "3.2.1"
+hotkey = { path = "../hotkey-rs"}
+rdev = "0.5.3"
